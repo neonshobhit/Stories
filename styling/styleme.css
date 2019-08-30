@@ -1,0 +1,87 @@
+.chessman{
+    margin: 30vh auto 0 auto;
+    padding: 0;
+    position: relative;
+    bottom: 30px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #ffb997;
+}
+.about{
+  position: absolute;
+  right: 5px;
+  top: 20px;
+  font-size: 2rem;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+td{
+  width : 20vw;
+}
+.itsshobhit{
+  color: #382039;
+  position: fixed;
+  margin: 0;
+  top: 5vh;
+  right: 65vw;
+  font-size: 3rem;
+  font-weight: normal;
+  font-family: 'Kaushan Script', cursive;
+  display: inline-block;
+}
+.pen-nib{
+  width: 100px;
+  height: 100px;
+  display:inline-block;
+}
+.meripic{
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  position: sticky;
+}
+.pool:link, .pool:visited, .lab:link, .lab:visited{
+  color: #382039;
+  text-decoration: none;
+}
+.firstline{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 5vw;
+  margin-top: 5vw;
+}
+.story-1{
+  margin: 0 30px 0 30px;
+  color: black;
+  font-size: 2rem;
+  line-height: 3rem;
+  width: 95vw;
+  height: 50vh;
+  display: block;
+  overflow-x: hidden;
+}
+.breakpos{
+  width: 80vw;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 30px;
+}
+.eyeimg{
+  border-radius: 100%;
+  border: 0;
+  padding: 0;
+  height: 120px;
+  width: 120px;
+  float: left;
+  margin-left: 50px;
+}
+.hel{
+  font-size: 90px;
+}
